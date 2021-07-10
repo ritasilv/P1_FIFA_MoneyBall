@@ -48,7 +48,7 @@ Based on the visualization, L.Messi is the most overpaid player according to his
 ##### 3. What's the distribution of height & weight vs stamina? 
 
 
-![Plot2](images/newplot (2).png)
+![Plot3](images/newplot (2).png)
 
 Based on the visualization, heavier and taller players have less stamina than lighter players.
 
