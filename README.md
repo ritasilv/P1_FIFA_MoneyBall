@@ -17,13 +17,9 @@ Data used from the kaggle Complete Player data set.
 
 https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset
 
-This data set includes:
+This data set includes information like players name, age, nationality, club, overall rating, scores in different skills, positions, body characteristics, etc.
 
-Player Name	Club of the Player
-League	Position
-Pace	Shooting
-Passing	Dribbling
-Defending	Physical
+Data Cleaning
 
 
 3- An example with one or more graphs (the most relevant one(s))
