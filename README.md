@@ -1,10 +1,7 @@
 # P1_FIFA_MoneyBall
 
 
-<img src="fifa.png"
-     alt="Fifa"
-     style="float: left; margin-right: 10px;" />
-
+![Fifa](images/fifa.png)
 
 
 #### Objective
@@ -39,27 +36,19 @@ Questions answered
 
 ##### 1. What's the distribution of wage vs value of the top players (overall rating greater than 80)?
 
+![Plot1](images/newplot.png)
 
-<img src="newplot.png"
-     alt="Plot1"
-     style="float: left; margin-right: 10px;" />
-     
      
 Based on the visualization, L.Messi is the most overpaid player according to his value and K.Mbappe is the most underpaid player according to his value.
 
 ##### 2. What are the emerging talents? Top 10 players under 21, ranked by potential.
 
-<img src="newplot (1).png"
-     alt="Plot2"
-     style="float: left; margin-right: 10px;" />
-
+![Plot2](images/newplot (1).png)
 
 ##### 3. What's the distribution of height & weight vs stamina? 
 
 
-<img src="newplot (2).png"
-     alt="Plot2"
-     style="float: left; margin-right: 10px;" />
+![Plot2](images/newplot (2).png)
 
 Based on the visualization, heavier and taller players have less stamina than lighter players.
 
