@@ -1,5 +1,12 @@
 # P1_FIFA_MoneyBall
 
+
+<img src="fifa.png"
+     alt="Fifa"
+     style="float: left; margin-right: 10px;" />
+
+
+
 #### Objective
 
 The objective of this project is to build a machine learinng model that predicts the market value of a FIFA player.
@@ -30,18 +37,41 @@ I have performed data transformation, checked correlations and fit my model base
 
 Questions answered
 
-1. What's the distribution of wage vs value of the top players (overall rating greater than 80)?
+##### 1. What's the distribution of wage vs value of the top players (overall rating greater than 80)?
 
 
-![Plot1](newplot.png)
-
-
+<img src="newplot.png"
+     alt="Plot1"
+     style="float: left; margin-right: 10px;" />
+     
+     
 Based on the visualization, L.Messi is the most overpaid player according to his value and K.Mbappe is the most underpaid player according to his value.
 
-4- Summary of the results
-5- Sources (link to the source of the data https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset)
+##### 2. What are the emerging talents? Top 10 players under 21, ranked by potential.
 
-Libraries
+<img src="newplot (1).png"
+     alt="Plot2"
+     style="float: left; margin-right: 10px;" />
+
+
+##### 3. What's the distribution of height & weight vs stamina? 
+
+
+<img src="newplot (2).png"
+     alt="Plot2"
+     style="float: left; margin-right: 10px;" />
+
+Based on the visualization, heavier and taller players have less stamina than lighter players.
+
+#### Summary of the results
+
+I used Linear regression model and I've got a R2 score of 0.939.
+
+#### Sources 
+
+Link to the dataset: https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset)
+
+#### Libraries
 
 import pandas as pd
 import numpy as np
