@@ -43,12 +43,12 @@ Based on the visualization, L.Messi is the most overpaid player according to his
 
 ##### 2. What are the emerging talents? Top 10 players under 21, ranked by potential.
 
-![Plot2](images/newplot (1).png)
+![Plot2](images/newplot1.png)
 
 ##### 3. What's the distribution of height & weight vs stamina? 
 
 
-![Plot3](images/newplot (2).png)
+![Plot3](images/newplot2.png)
 
 Based on the visualization, heavier and taller players have less stamina than lighter players.
 
